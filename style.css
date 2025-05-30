@@ -395,6 +395,12 @@ span {
 
 }
 
+section#services {
+    padding: 5rem 2rem;
+    background-color: #222;
+    text-align: center;
+}
+
 section#services h2 {
     font-size: 3rem;
     font-weight: 600;
